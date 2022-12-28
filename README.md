@@ -8,4 +8,4 @@ I'm using this sample to learn more about git and github.
 
 I'm not that creative myself. Because you know, I'm something of a scientist myself.
 
-I hope GIT MASTER worked
+I hope GIT MASTER worked in FULLLL
